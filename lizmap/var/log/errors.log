@@ -1,0 +1,18 @@
+2022-06-09 11:25:03	::1	[9]	The application is not installed -- installer.ini.php doesn't exist!
+	C:\webserver\www\lizmap\lib\jelix\core\jConfigCompiler.class.php	270
+	/lizmap/lizmap/www/index.php
+array ( )
+
+	0	jConfigCompiler::_loadModuleInfo()	C:\webserver\www\lizmap\lib\jelix\core\jConfigCompiler.class.php : 159
+	1	jConfigCompiler::prepareConfig()	C:\webserver\www\lizmap\lib\jelix\core\jConfigCompiler.class.php : 85
+	2	jConfigCompiler::read()	C:\webserver\www\lizmap\lib\jelix\core\jConfigCompiler.class.php : 103
+	3	jConfigCompiler::readAndCache()	C:\webserver\www\lizmap\lib\jelix\core\jConfig.class.php : 84
+	4	jConfig::load()	C:\webserver\www\lizmap\lib\jelix\core\jApp.class.php : 145
+	5	jApp::loadConfig()	C:\webserver\www\lizmap\lizmap\www\index.php : 17
+2022-06-09 12:26:06	::1	warning	2022-06-09 12:26:06	[2]	session_set_cookie_params(): Unrecognized key 'expires' found in the options array	C:\webserver\www\lizmap\lib\jelix\core\jSession.class.php	55
+
+2022-06-09 12:26:07	::1	error	Spatialite is not available
+2022-06-09 12:26:08	::1	warning	2022-06-09 12:26:08	[2]	session_set_cookie_params(): Unrecognized key 'expires' found in the options array	C:\webserver\www\lizmap\lib\jelix\core\jSession.class.php	55
+
+2022-06-09 12:26:09	::1	warning	2022-06-09 12:26:09	[2]	session_set_cookie_params(): Unrecognized key 'expires' found in the options array	C:\webserver\www\lizmap\lib\jelix\core\jSession.class.php	55
+

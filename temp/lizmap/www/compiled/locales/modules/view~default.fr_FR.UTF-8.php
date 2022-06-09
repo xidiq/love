@@ -1,0 +1,17 @@
+<?php $_loaded= array (
+  'repository.access.denied' => 'Vous n\'avez pas les droits pour voir ce répertoire de cartes.',
+  'repository.list.title' => 'Projets',
+  'home.title' => 'Accueil',
+  'project.access.denied' => 'Ce projet a été masqué par l\'administrateur. Vous ne pouvez pas y accéder.',
+  'project.title.label' => 'Titre',
+  'project.abstract.label' => 'Résumé',
+  'project.projection.label' => 'Projection',
+  'project.bbox.label' => 'Emprise',
+  'project.open.map' => 'Voir la carte',
+  'project.open.map.metadata' => 'Description',
+  'project.close.map.metadata' => 'Fermer',
+  'header.connect' => 'Connexion',
+  'header.disconnect' => 'Déconnexion',
+  'header.createAccount' => 'Inscription',
+  'header.menuitem.admin.label' => 'Administration',
+) ?>
